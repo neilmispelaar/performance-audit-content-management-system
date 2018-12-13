@@ -11,8 +11,19 @@ The results have been organised into themes or topics, which
 
 **Table of contents** 
 
-
-
+* [Preface](#preface)
+* [Content Management](#content-management)
+  * [Strengths](#strengths)
+  * [Weaknesses](#weaknesses)
+* [Web Publishing](#web-publishing)
+  * [Strengths](#strengths)
+  * [Weaknesses](#weaknesses)
+* [Special Projects and Sites Management](#special-projects-and-sites-management)
+  * [Strengths](#strengths)
+  * [Weaknesses](#weaknesses)
+* [Key Links](#key-links)
+* [Contributing](#contributing) 
+* [License](#license)
 
 ## Preface
 
@@ -40,7 +51,7 @@ This README.md page was created to TO DO. The objective is to provide the reader
 ### Weaknesses 
 
 
-## Special Projects and Sites Management  
+## Special Projects and Sites Management
 
 
 
