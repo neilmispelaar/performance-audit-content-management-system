@@ -16,14 +16,16 @@ The results have been organised into themes or topics, which
   * [Strengths](#strengths)
   * [Weaknesses](#weaknesses)
 * [Web Publishing](#web-publishing)
-  * [Strengths](#strengths)
-  * [Weaknesses](#weaknesses)
+  * [Strengths](#strengths-1)
+  * [Weaknesses](#weaknesses-1)
 * [Special Projects and Sites Management](#special-projects-and-sites-management)
-  * [Strengths](#strengths)
-  * [Weaknesses](#weaknesses)
+  * [Strengths](#strengths-2)
+  * [Weaknesses](#weaknesses-2)
 * [Key Links](#key-links)
 * [Contributing](#contributing) 
 * [License](#license)
+
+***
 
 ## Preface
 
