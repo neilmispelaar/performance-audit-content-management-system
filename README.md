@@ -22,6 +22,8 @@ This README.md page was created to TO DO. The objective is to provide the reader
 ## Content Management 
 
 
+
+
 ### Strengths 
 
 
@@ -49,7 +51,7 @@ Spot an problem, see something that doesn't make sense, or have a question, plea
 
 ## License
 
-This repo is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details - meaning you are free to use it for any purpose, commercial or non-commercial, without any attribution. 
+This repo is licensed under the MIT License - see the [LICENSE](LICENSE) file for details - meaning you are free to use it for any purpose, commercial or non-commercial, without any attribution. 
 
 
 
