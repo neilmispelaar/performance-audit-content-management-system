@@ -32,14 +32,28 @@ This README.md page was created to TO DO. The objective is to provide the reader
 
 ## Web Publishing 
 
+
+
 ### Strengths 
 
 
 ### Weaknesses 
 
 
+## Special Projects and Sites Management  
 
-### Key Links
+
+
+### Strengths 
+
+* Flexibility around the campaign page templates 
+
+### Weaknesses 
+
+* No means of managing CSS files within the system 
+
+
+## Key Links
 
 Key links go here.
 
@@ -60,6 +74,22 @@ This repo is licensed under the MIT License - see the [LICENSE](LICENSE) file fo
 ## Notes
 
 There may be value in adding an opportunities section
+
+One of the challenges is that we have a system that does what our business doesn't want to do
+
+our leaders don't want anyone to touch html
+
+we want everything templated until we don't want it templated 
+
+Locking of files 
+
+Add: Special projects section like campaign pages - no surrort for CSS files 
+
+Components modify HTML 
+
+Our skill set is strong on HTML and the tool sometimes modifies our HTML files 
+
+
 
 
 ***
